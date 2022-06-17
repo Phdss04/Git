@@ -14,3 +14,4 @@ Comandos git aprendidos:
 - git checkout "nome da branch" (permite trocar de branch)
 - git merge "nome da branch que deseja puxar as alterações"
 obs: antes de usar o comando "git merge" utilizar o comando "git pull" para trazer todas as alterações do servidor para a máquina local.
+- git pull
