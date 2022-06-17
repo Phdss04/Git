@@ -11,6 +11,5 @@ Comandos git aprendidos:
 - git reset --hard id (permite voltar o codigo a uma versão anterior)
 - git branch (mostra todas as branchs disponíveis)
 - git branch "nome da branch" (permite criar uma nova branch)
-- git checkout "nome da branchd" (permite trocar de branch)
-
-staging
+- git checkout "nome da branch" (permite trocar de branch)
+- git merge "nome da branch que deseja puxar as alterações"
