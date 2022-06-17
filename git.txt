@@ -7,5 +7,3 @@ Comandos git aprendidos:
 - git push (adiciona a versão do commit a nuvem)
 - git remote add origin https://github.com/Phdss04/Git  (defini um repositorio para upar os commits do git)
 - git remote rm origin (comando para remover um repositorio)
-
-editado
