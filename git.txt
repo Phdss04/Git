@@ -1,0 +1,11 @@
+Comandos git aprendidos: 
+- git init (inicializa uma pasta especifica como repositorio)
+- git status (exibe o status do repositorio)
+- git add "NomeDoArquivo" (adiciona determinado arquivo a lista de commits)
+- git add . (adiciona TODOS arquivos a lista de commits)
+- git commit -m "" (realiza o commit nos arquivos da lista)
+- git push (adiciona a versão do commit a nuvem)
+- git remote add origin https://github.com/Phdss04/Git  (defini um repositorio para upar os commits do git)
+- git remote rm origin (comando para remover um repositorio)
+
+editado
