@@ -7,3 +7,10 @@ Comandos git aprendidos:
 - git push (adiciona a versão do commit a nuvem)
 - git remote add origin https://github.com/Phdss04/Git  (defini um repositorio para upar os commits do git)
 - git remote rm origin (comando para remover um repositorio)
+- git reflog (permite visualizar as versões do codigo)
+- git reset --hard id (permite voltar o codigo a uma versão anterior)
+- git branch (mostra todas as branchs disponíveis)
+- git branch "nome da branch" (permite criar uma nova branch)
+- git checkout "nome da branchd" (permite trocar de branch)
+
+staging
